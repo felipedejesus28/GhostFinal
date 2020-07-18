@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "349469200470",
+    "firebase_url": "https://florever-sirena.firebaseio.com",
+    "project_id": "florever-sirena",
+    "storage_bucket": "florever-sirena.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349469200470:android:04bf335c3afc5eb09d6bf7",
+        "android_client_info": {
+          "package_name": "com.sirena.florever"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349469200470-c02r6mh0qpjnmv6dsi2fb9khv991vi95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbj4PAawzdlF67fCujBs0MGP5NiYt2Hko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349469200470-c02r6mh0qpjnmv6dsi2fb9khv991vi95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
