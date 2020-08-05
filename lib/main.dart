@@ -44,7 +44,7 @@ class Estado extends State {
 
                       Positioned(
                           top: 0,
-                          left: 162,
+                          left: 182,
                           child: GestureDetector(
                             child: Image.asset('imagenes/petalovertical.png'),
                             onTap: () {
@@ -53,8 +53,8 @@ class Estado extends State {
                           )),
 
                       Positioned(
-                          top: 50,
-                          left: 200,
+                          top: 56,
+                          left: 234,
                           child: GestureDetector(
                             child: Image.asset('imagenes/petalodiagonalder.png'),
                             onTap: () {
@@ -63,7 +63,7 @@ class Estado extends State {
                           )),
 
                       Positioned(
-                          top: 162,
+                          top: 182,
                           right: 0,
                           child: GestureDetector(
                             child: Image.asset('imagenes/petalohorizontal.png'),
@@ -73,8 +73,8 @@ class Estado extends State {
                           )),
 
                       Positioned(
-                          top: 200,
-                          left: 200,
+                          top: 234,
+                          left: 234,
                           child: GestureDetector(
                             child: Image.asset('imagenes/petalodiagonalizq.png'),
                             onTap: () {
@@ -83,8 +83,8 @@ class Estado extends State {
                           )),
 
                       Positioned(
-                          bottom: 35,
-                          left: 162,
+                          bottom: 0,
+                          left: 182,
                           child: GestureDetector(
                             child: Image.asset('imagenes/petalovertical.png'),
                             onTap: () {
@@ -93,8 +93,8 @@ class Estado extends State {
                           )),
 
                       Positioned(
-                          top: 200,
-                          left: 49,
+                          top: 234,
+                          left: 56,
                           child: GestureDetector(
                             child: Image.asset('imagenes/petalodiagonalder.png'),
                             onTap: () {
@@ -103,7 +103,7 @@ class Estado extends State {
                           )),
 
                       Positioned(
-                          top: 162,
+                          top: 182,
                           left: 0,
                           child: GestureDetector(
                             child: Image.asset('imagenes/petalohorizontal.png'),
@@ -114,7 +114,7 @@ class Estado extends State {
 
                       Positioned(
                           top: 50,
-                          left: 47,
+                          left: 50,
                           child: GestureDetector(
                             child: Image.asset('imagenes/petalodiagonalizq.png'),
                             onTap: () {
@@ -124,8 +124,8 @@ class Estado extends State {
 
                       //CENTRO 1
                       Positioned(
-                          top: 98,
-                          left: 95,
+                          top: 113,
+                          left: 113,
                           child: GestureDetector(
                             child: Image.asset(
                               'imagenes/centro1.png',
@@ -137,8 +137,8 @@ class Estado extends State {
 
                       //CENTRO 2
                       Positioned(
-                          top: 120,
-                          left: 120,
+                          top: 135,
+                          left: 138,
                           child: GestureDetector(
                             child: Image.asset('imagenes/centro2.png'),
                             onTap: () {
@@ -148,8 +148,8 @@ class Estado extends State {
 
                       //CENTRO 3
                       Positioned(
-                          top: 157,
-                          left: 157,
+                          top: 172,
+                          left: 175,
                           child: GestureDetector(
                             child: Image.asset('imagenes/centro3.png'),
                             onTap: () {
